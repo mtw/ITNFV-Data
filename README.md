@@ -1,2 +1,2 @@
 # ITNFV-Data
-Supporting data to Ocsenreiter et al. (2019) 
+Supporting data for Ocsenreiter et al. (2019), including xrRNA covariance models
